@@ -1,6 +1,9 @@
 data
 ./data
 
+config.ini
+.aws
+
 .DS_Store
 DS_Store
 # Compiled binary files
