@@ -1,0 +1,32 @@
+data
+./data
+
+.DS_Store
+DS_Store
+# Compiled binary files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Generated files
+*.log
+*.swp
+*.tmp
+*.pyc
+__pycache__/
+
+# Build directories
+build/
+dist/
+site/
+env/
+venv/
+.venv/
+*.egg-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
